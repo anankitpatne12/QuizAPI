@@ -25,11 +25,11 @@ Create a new quiz by sending a POST request to this endpoint.
 #### Response
 
 - Status: 201 Created
-- Body: "Quiz created successfully."
+- Body: "Quiz created successfully:id"
 
 ### Get Active Quiz
 
-Endpoint: `GET /quizzes/active/`
+Endpoint: `GET /quizzes/active/:id/`
 
 Retrieve the active quiz, which is the quiz that is currently within its start and end time.
 
