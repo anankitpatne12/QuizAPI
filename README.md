@@ -1,5 +1,3 @@
-Certainly! Here's an example of the documentation for the project:
-
 # Quiz API Documentation
 
 This documentation provides an overview of the Quiz API endpoints.
@@ -91,4 +89,3 @@ The API implements error handling for all endpoints and returns appropriate erro
 
 Please ensure that you provide valid request data and handle error responses accordingly.
 
-This concludes the API documentation for the Quiz application. If you have any further questions or need assistance, please refer to the documentation above or contact the API administrator.
